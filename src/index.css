@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Montserrat:wght@400;500;600&display=swap');
+
+:root {
+  --pf-primary: #FF741D;
+  --pf-gradient-from: #FF8B27;
+  --pf-gradient-to: #FF4708;
+  --pf-dark-text: #2F2F2F;
+  --pf-blue: #0071D9;
+  --pf-gray: #BDCAD8;
+  --pf-light-gray: #F4F6F8;
+  --pf-ai: #8000FF;
+}
